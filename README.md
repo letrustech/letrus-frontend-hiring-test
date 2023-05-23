@@ -14,6 +14,7 @@
 - React Router
 - Hooks
 - Redux Toolkit
+- Responsividade
 - Consumo da seguinte API RESTful: https://rickandmortyapi.com/api/character
 - Listagem dos dados em uma nova rota
 
@@ -22,6 +23,7 @@
 - Testes (unitários, de integração, E2E)
 - Jest, React Testing Library
 - TDD
+- Mobile first
 
 ## O que é permitido
 
