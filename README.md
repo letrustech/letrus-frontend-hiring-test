@@ -1,3 +1,5 @@
+<p  align="center"><img src="./public/logoLetrus.svg" width="350px"></p>
+
 ## Instruções
 
 1. Faça um clone (e não um fork 😅) desse repositório na sua conta do GitHub
