@@ -1,6 +1,6 @@
 ## Instruções
 
-1. Faça um clone do repositório na sua conta do GitHub
+1. Faça um clone (e não um fork 😅) desse repositório na sua conta do GitHub
 2. Crie uma branch, preferencialmente utilizando as práticas do conventional commits
 3. Depois de concluir o desafio, abra um pull-request contra a **main do seu clone** com a descrição do que foi feito, como foi feito e como testar a nova funcionalidade
 4. Envie um email para [front-end@letrus.com.br](mailto:front-end@letrus.com.br?subject=Desafio%20Letrus) com objeto "Desafio Letrus" e no corpo do e-mail o link para acessarmos o pull-request no seu clone
@@ -35,13 +35,13 @@
 ## O que não é permitido
 
 - Frameworks adicionais, como Bootstrap, Chakra UI, Materialize, etc
-- Bibliotecas que em geral abstraiam os principais conceitos utilizados
-- Reutilização de códigos de outras pessoas
+- Bibliotecas que em geral abstraiam os principais conceitos aplicados
+- Reutilização de código feito por outras pessoas
 
 ## Como rodar o projeto
 
-1. Ter o Node.js instalado (versão 14.1.0+)
-2. Criar o clone do projeto
+1. Instalar o Node.js (versão 14.1.0+)
+2. Criar um clone do projeto
 3. Rodar `npm install`
 4. Rodar `npm start`
 
