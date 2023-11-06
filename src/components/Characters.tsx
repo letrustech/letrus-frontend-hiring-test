@@ -21,7 +21,8 @@ type RootState = {
 
 const Characters = ({ characterId }: { characterId: number }) => {
   const dispatch = useDispatch();
-  const charactersData = useSelector((state: RootState) => state.characters); 
+  const charactersData = useSelector((state: RootState) => state.characters);
+  console.log(charactersData)
 
   useEffect(() => {
     
@@ -37,8 +38,9 @@ const Characters = ({ characterId }: { characterId: number }) => {
   }
 
   if (!charactersData.data) {
-    return null;
+    return <h1>Personagem não encontrado</h1>
   }
+  
 
   const character = charactersData.data; 
 
